@@ -5,7 +5,7 @@
 
 <h3 align="left">Current Activity</h3>
 
-<p align="left">I'm currently creating Spring Framework projects.</p>
+<p align="left">I'm currently working as a full stack developer for Haupper</p>
 
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
